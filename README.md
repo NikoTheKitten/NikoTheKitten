@@ -37,7 +37,7 @@ You can find me on these platforms to connect, collaborate, or just say hello:
 
 ## 💼 Organizations
 
-*  **Katzen-Neko** 
+*  **Currently Working as Self-Employed**
 
 ---
 
