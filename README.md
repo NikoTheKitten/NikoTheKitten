@@ -37,18 +37,7 @@ You can find me on these platforms to connect, collaborate, or just say hello:
 
 ## 💼 Organizations
 
-<!-- Using HTML Table for side-by-side layout -->
-<table>
-  <tr>
-    <td width="400px" valign="top">
-      <img src="https://raw.githubusercontent.com/NikoTheKitten/imagesforpersonaluse/refs/heads/main/n1_cropped_processed_by_imagy_cropped_processed_by_imagy.png?token=GHSAT0AAAAAADTG4QL3NCDOUGEZC6NDYBOA2LIU5LA" alt="Katzen-Neko Logo" width="400""")/>
-    </td>
-    <td valign="top">
-      <h3>Katzen-Neko</h3>
-      <em>coding the tomorrow</em>
-    </td>
-  </tr>
-</table>
+*  **Katzen-Neko** 
 
 ---
 
