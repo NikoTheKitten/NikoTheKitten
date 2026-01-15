@@ -40,7 +40,7 @@ You can find me on these platforms to connect, collaborate, or just say hello:
 ### Katzen-Neko
 *coding the tomorrow*
 
-![Katzen-Neko Logo](https://raw.githubusercontent.com/NikoTheKitten/imagesforpersonaluse/refs/heads/main/n1_cropped_processed_by_imagy.png?token=GHSAT0AAAAAADTG4QL2RHPJOJO3VP662TZM2LIU2WA)
+![Katzen-Neko Logo](https://raw.githubusercontent.com/NikoTheKitten/imagesforpersonaluse/refs/heads/main/n1_cropped_processed_by_imagy_cropped_processed_by_imagy.png?token=GHSAT0AAAAAADTG4QL3NCDOUGEZC6NDYBOA2LIU5LA)
 
 ---
 
