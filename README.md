@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm NikoTheKitten 👋
 
-<!--
-**NikoTheKitten/NikoTheKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :technologist: About Me
 
-Here are some ideas to get you started:
+I am a **freelance** developer who **loves coding and hacking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Pronouns:** he/him
+*   **Occupation:** Freelance
+
+---
+
+### :mailbox: Connect With Me
+
+You can find me on LinkedIn here:
+
+[![LinkedIn Badge](img.shields.io)](www.linkedin.com)
+
+---
+
+### :fire: My GitHub Stats (Optional Dynamic Content)
+
+You can add dynamic widgets like these to showcase your activity. Visit [
