@@ -41,7 +41,7 @@ You can find me on these platforms to connect, collaborate, or just say hello:
 <table>
   <tr>
     <td width="120px" valign="top">
-      <img src="raw.githubusercontent.com" alt="Katzen-Neko Logo" width="100""")/>>
+      <img src="https://raw.githubusercontent.com/NikoTheKitten/imagesforpersonaluse/refs/heads/main/n1_cropped_processed_by_imagy_cropped_processed_by_imagy.png?token=GHSAT0AAAAAADTG4QL3NCDOUGEZC6NDYBOA2LIU5LA" alt="Katzen-Neko Logo" width="100""")/>>
     </td>
     <td valign="top">
       <h3>Katzen-Neko</h3>
