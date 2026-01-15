@@ -1,22 +1,55 @@
-# Hi there! I'm NikoTheKitten 👋
+# Hi there 👋 I'm NikoTheKitten!
 
-### :technologist: About Me
-
-I am a **freelance** developer who **loves coding and hacking**.
-
-*   **Pronouns:** he/him
-*   **Occupation:** Freelance
+I'm an enthusiast who loves diving deep into the worlds of **coding** and **hacking**. My focus is on exploring new technologies, understanding system vulnerabilities, and building innovative software solutions.
 
 ---
 
-### :mailbox: Connect With Me
+## 🚀 About Me
 
-You can find me on LinkedIn here:
+I use he/him pronouns and primarily focus my time on self-directed learning and projects in the cybersecurity and software development fields. I am constantly seeking to expand my knowledge and collaborate on interesting projects.
 
-[![LinkedIn Badge](img.shields.io)](www.linkedin.com)
+### Interests
+*   **Ethical Hacking:** Exploring vulnerabilities and securing systems.
+*   **Software Hacking:** Building robust and efficient applications.
+*   **Open Source:** Contributing to projects that make a difference.
+*   **Learning:** Always picking up new programming languages and frameworks.
 
 ---
 
-### :fire: My GitHub Stats (Optional Dynamic Content)
+## 🛠️ Skills & Technologies
 
-You can add dynamic widgets like these to showcase your activity. Visit [
+I have experience with a variety of tools and languages relevant to my interests:
+
+*   **Languages:** Python, JavaScript, C++, Bash
+*   **Tools:** Git, Linux Environments, various security assessment tools
+*   **Areas:** Web Development, Automation, Network Security
+
+---
+
+## 🌐 Connect With Me
+
+You can find me on these platforms to connect, collaborate, or just say hello:
+
+*   **LinkedIn:** [in/niko-katzen-4b28b8385](www.linkedin.com)
+*   **Instagram:** [@notniko69](www.instagram.com)
+
+---
+
+## 💼 Organizations
+
+### Katzen-Neko
+*coding the tomorrow*
+
+![Katzen-Neko Logo](PASTE_YOUR_PUBLIC_IMAGE_URL_HERE)
+
+---
+
+## ✨ Projects & Contributions
+
+*I am currently curating a list of featured projects and contributions to display here. Check back soon!*
+
+---
+
+## 📫 Get In Touch
+
+Feel free to open an issue on one of my public repositories or connect via LinkedIn if you have a project idea or just want to chat about coding!
